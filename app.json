@@ -34,7 +34,7 @@
     "OWNER_NAME": {
       "description": "Owner name (Default: Tunite)",
       "required": false,
-      "value": Tunite"
+      "value": "Tunite"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -172,5 +172,5 @@
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
   ],
-  "stack": "heroku-24"
+  "stack": "heroku-24".
 }
